@@ -1,0 +1,15 @@
+.boton-aumentar{
+    background-color: rgba(205, 217, 237, 0.915);
+}
+.boton-reiniciar{
+    background-color: rgba(9, 60, 215, 0.626);
+}
+button{
+    width: 200px;
+    height: 80px;
+    font-weight: bold;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
